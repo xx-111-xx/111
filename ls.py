@@ -8,7 +8,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 TOKEN = "8750258803:AAGtg9YU0MfXt5_fzEE-fndJg-XGeEKkOw4"
 
 # رابط مشروعك من Render (يجب أن يكون مطابقاً تماماً)
-WEBHOOK_URL = "https://one11-nar3.onrender.com" 
+WEBHOOK_URL = "https://one11-8g8y.onrender.com" 
 
 bot = telebot.TeleBot(TOKEN)
 app = Flask(__name__)
