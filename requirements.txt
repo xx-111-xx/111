@@ -1,5 +1,4 @@
 pyTelegramBotAPI
 requests
 user-agent
-Flask
-pip install -U yt-dlp
+yt-dlp
