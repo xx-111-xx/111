@@ -5,7 +5,7 @@ from user_agent import generate_user_agent
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # ضع التوكن في متغير بيئة بدلاً من كتابته مباشرة هنا
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "ضع_التوكن_الجديد_هنا")
+BOT_TOKEN = "8750258803:AAGtg9YU0MfXt5_fzEE-fndJg-XGeEKkOw4"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 
